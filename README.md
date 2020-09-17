@@ -1,6 +1,6 @@
 #
 ##I live in Kendrapara, Odisha.
-##Here are some photos to show you where I live :)
+###Here are some photos to show you where I live :)
 
 ![Summer Sky in Kendrapara](https://github.com/atulsnjena/atulsnjena/blob/master/kdp_jul30.jpg)
 
