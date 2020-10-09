@@ -1,4 +1,45 @@
-# I live in Kendrapara, Odisha.
+# 👋Hey There I am [ Atul ](https://github.com/atulsnjena)
+<div style='font-size:1.2em'>
+	<b>A Learner of Electronics Engineering</b>
+	&ldquo; I am Just A Student who keeps Learning sharing knowledge i have &rdquo;
+</div>
+
+<br>
+
+## ⚡ Get Me on
+
+<div align='left' style="display: flex; justify-content: space-between;">
+	<a href='#'>
+	<img src='https://img.shields.io/badge/Discord-atul%239130-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=30&labelColor=000' alt='Discord - atul#9130'>
+	</a>
+</div>
+
+<hr>
+
+## 🔧 Langs / Tools
+
+<div align='left' style="display: flex; justify-content: space-between;">
+	<!-- Programming Languages. -->
+	<a href='https://www.python.org/'>
+		<img src='https://img.shields.io/badge/code-python-007396?logoWidth=30&labelColor=black&style=for-the-badge&logo=python' alt='Python'>
+	</a>
+	&emsp;
+	<a href='#'>
+		<img src='https://img.shields.io/badge/code-c%20programming-A8B9CC?logoWidth=30&labelColor=black&style=for-the-badge&logo=c' alt='C Programming'>
+	</a>
+	&emsp;
+	<a href='#'>
+		<img src='https://img.shields.io/badge/code-c%2B%2B-00599C?logoWidth=30&labelColor=black&style=for-the-badge&logo=c%2B%2B' alt='C++'>
+	&emsp;
+	<a href='https://repl.it/'>
+		<img src='https://img.shields.io/badge/tools-repl-430098?logoWidth=30&labelColor=black&style=for-the-badge&logo=replit' alt='REPL.IT'>
+	</a>
+	&emsp;
+</div>
+<hr>
+<img src="https://komarev.com/ghpvc/?username=atulsnjena&style=flat-square">
+
+# 🏠I live in Kendrapara, Odisha.
 ## Here are some photos to show you where I live :)
 
 
