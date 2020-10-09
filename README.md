@@ -1,7 +1,7 @@
 # 👋Hey There I am [ Atul ](https://github.com/atulsnjena)
 <div style='font-size:1.2em'>
 	<b>A Learner of Electronics Engineering</b>
-	&ldquo; I am Just A Student who keeps Learning sharing knowledge i have &rdquo;
+	&ldquo; I am Just A Student &rdquo;
 </div>
 
 <br>
