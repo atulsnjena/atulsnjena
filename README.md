@@ -5,15 +5,6 @@
 </div>
 
 <br>
-
-## ⚡ Get Me on
-
-<div align='left' style="display: flex; justify-content: space-between;">
-	<a href='#'>
-	<img src='https://img.shields.io/badge/Discord-atul%239130-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=30&labelColor=000' alt='Discord - atul#9130'>
-	</a>
-</div>
-
 <hr>
 
 ## 🔧 Langs / Tools
