@@ -1,7 +1,7 @@
 # 👋Hey There I am [ Atul ](https://github.com/atulsnjena)
 <div style='font-size:1.2em'>
-	<b>I am pursuing Bachelor of Technology</b>
-	&ldquo; in Instrumentation & Electronics Engineering at CET-B &rdquo;
+	<b>I am currently pursuing Bachelor of Technology</b>
+	<i> in Instrumentation & Electronics Engineering at CET-B </i>
 </div>
 
 <br>
