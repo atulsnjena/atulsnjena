@@ -1,4 +1,4 @@
-# 👋Hey There I am [ Atul ](https://github.com/atulsnjena)
+# 🙏 Namaste, I am Surya Narayan Jena
 <div style='font-size:1.2em'>
 	<b>I am currently pursuing Bachelor of Technology</b>
 	<i> in Instrumentation & Electronics Engineering at CET-B </i>
