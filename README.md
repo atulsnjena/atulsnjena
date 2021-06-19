@@ -22,10 +22,6 @@
 		<img src='https://img.shields.io/badge/code-python-007396?logoWidth=30&labelColor=black&style=for-the-badge&logo=python' alt='Python'>
 	</a>
 	&emsp;
-	<a href='https://repl.it/'>
-		<img src='https://img.shields.io/badge/tools-repl-430098?logoWidth=30&labelColor=black&style=for-the-badge&logo=replit' alt='REPL.IT'>
-	</a>
-	&emsp;
 </div>
 <hr>
 <img src="https://komarev.com/ghpvc/?username=atulsnjena&style=flat-square">
